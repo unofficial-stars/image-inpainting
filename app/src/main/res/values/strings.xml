@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Image Inpainting</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="collage">Collage</string>
+    <string name="galery">Galery</string>
+    <string name="camera">Camera</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="legal_or_privacy">Legal or Privacy</string>
+    <string name="visit_image_inpainting">Visit Image-Inpainting.com</string>
+    <string name="about">About</string>
+    <string name="default_save_folder">Default Save Folder</string>
+    <string name="none">None</string>
+    <string name="default_save_size">Default Save Size</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="remove_adds">Remove Adds</string>
+    <string name="ads_settings">Ads Settings</string>
+    <string name="settings">Settings</string>
+</resources>
