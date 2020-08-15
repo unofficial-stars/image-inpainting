@@ -1,8 +1,8 @@
-package com.djinggoo.imageinpainting.activity;
+package com.djinggoo.imageinpainting.activities.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-import android.content.Intent;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;

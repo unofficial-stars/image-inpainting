@@ -1,4 +1,4 @@
-package com.djinggoo.imageinpainting.activity;
+package com.djinggoo.imageinpainting.activities.settings;
 
 import androidx.appcompat.app.AppCompatActivity;
 
